@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["adobe photoshop", "adobe illustrator","CorelDRAW","Adobe Premiere Pro", "web designing", "android development", "web development"],
+    strings: ["adobe photoshop", "adobe illustrator","adobe Premiere Pro", "CorelDRAW", "web designing", "android development", "web development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
