@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | Samindra Debnath";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -219,10 +219,10 @@ srtop.reveal('.home .content .btn', { delay: 200 });
 srtop.reveal('.home .image', { delay: 400 });
 srtop.reveal('.home .linkedin', { interval: 600 });
 srtop.reveal('.home .github', { interval: 800 });
-srtop.reveal('.home .twitter', { interval: 1000 });
+srtop.reveal('.home .x', { interval: 1000 });
 srtop.reveal('.home .telegram', { interval: 600 });
 srtop.reveal('.home .instagram', { interval: 600 });
-srtop.reveal('.home .dev', { interval: 600 });
+srtop.reveal('.home .fb', { interval: 600 });
 
 /* SCROLL ABOUT */
 srtop.reveal('.about .content h3', { delay: 200 });
