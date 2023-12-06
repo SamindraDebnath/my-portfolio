@@ -48,5 +48,35 @@
       "view": "https://samindradebnath.github.io/my-portfolio/",
       "code": "#"
     }
+  },
+  {
+    "name": "Sonarpur Hashi Mukh Logo",
+    "desc": "This Logo is created using CorelDRAW.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/Smile%20Face%20logo%20new.png?alt=media&token=fa627627-5aa0-4916-a1f9-9bdea7075110",
+    "category": "corel",
+    "links": {
+      "view": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/Smile%20Face%20logo%20new.png?alt=media&token=fa627627-5aa0-4916-a1f9-9bdea7075110",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Sonarpur Hashi Mukh Banner",
+    "desc": "This Creative is created using Photoshop.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/SHM%20Banner.jpg?alt=media&token=375868f8-c6fd-4034-9cd4-aadda458013d",
+    "category": "pshop",
+    "links": {
+      "view": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/SHM%20Banner.jpg?alt=media&token=375868f8-c6fd-4034-9cd4-aadda458013d",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Sonarpur Hashi Mukh Banner",
+    "desc": "This Creative is created using CorelDRAW.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/Puja%20Banner_2022.jpg?alt=media&token=e8b78110-e4d9-4c00-80e6-41ce05e11d06",
+    "category": "corel",
+    "links": {
+      "view": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/Puja%20Banner_2022.jpg?alt=media&token=e8b78110-e4d9-4c00-80e6-41ce05e11d06",
+      "code": "#"
+    }
   }
 ]
