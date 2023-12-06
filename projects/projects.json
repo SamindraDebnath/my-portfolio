@@ -20,13 +20,13 @@
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
+    "name": "BixStar Biscute Artwork",
+    "desc": "BixStar Biscute Artwork",
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/BixStar_Biscute-01.png?alt=media&token=40ea6d8d-300a-4cf6-9b75-aef965d246b9",
+    "category": "illu",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/BixStar_Biscute-01.png?alt=media&token=40ea6d8d-300a-4cf6-9b75-aef965d246b9",
+      "code": "#"
     }
   },
   {
