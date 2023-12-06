@@ -52,7 +52,7 @@
   {
     "name": "Flipkart hhjkhodsghon",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "image": "https://cdn.shopify.com/s/files/1/0591/3352/6223/files/MT_MyFonts_logo_transparent_RGB.svg?v=1658397897",
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
