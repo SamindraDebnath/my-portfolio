@@ -2,7 +2,7 @@
   {
     "name": "Ambulance Number",
     "desc": "Fully fledged android app based on different design patterns. Built using Dart, Firebase.",
-    "image": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/App%20Screen%20Short-06.jpg?alt=media&token=3b029a71-a756-48f1-974e-75e683dfd52c",
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/Ambulance%20App%20Screen%20Short-06.png?alt=media&token=8b1cb012-8756-480d-a3f1-6bcb1e726827",
     "category": "android",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.ambulance.number&pli=1",
@@ -12,10 +12,10 @@
   {
     "name": "Add Ambulance for Admin",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Dart, Firebase.",
-    "image": "sppuprepandroid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/Add%20Ambulance%20App%20Screen-01.png?alt=media&token=d52960c8-f851-41b3-814c-e5d940b73188",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://firebasestorage.googleapis.com/v0/b/my-profile-f5ae1.appspot.com/o/Add%20Ambulance%20App%20Screen-01.png?alt=media&token=d52960c8-f851-41b3-814c-e5d940b73188",
       "code": "#"
     }
   },
