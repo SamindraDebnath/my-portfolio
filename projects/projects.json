@@ -32,7 +32,7 @@
   {
     "name": "Weatherly Android",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
+    "image": "weatherlyandroid.png",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -42,7 +42,7 @@
   {
     "name": "Test",
     "desc": "hbjkshvib jnvsojhvn ",
-    "image": "https://cdn.photoshoptutorials.ws/wp-content/uploads/2016/04/Underwater-Dream-768x519.jpg?strip=all&lossy=1&quality=70&webp=70&avif=70&ssl=1",
+    "image": "jspro.PNG",
     "category": "mern",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
